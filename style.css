@@ -1,0 +1,34 @@
+body {
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+aside {
+    line-height: 20px;
+    padding-left: 40px;
+}
+aside > section {
+    margin-top: 40px;
+}
+.contactInfo > li {
+    list-style-type: none;
+    line-height: 30px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+i {
+    margin-right: 5px;
+}
+.personalInformation{
+    width: 40%;
+}
+.experienceContent{
+    width: 90%;
+    border-left: 1px solid black;
+    padding: 20px 40px;
+}
