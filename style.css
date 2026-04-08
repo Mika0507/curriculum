@@ -10,7 +10,7 @@ aside {
     padding-left: 40px;
 }
 aside > section {
-    margin-top: 40px;
+    margin-top: 30px;
 }
 .contactInfo > li {
     list-style-type: none;
@@ -31,4 +31,16 @@ i {
     width: 90%;
     border-left: 1px solid black;
     padding: 20px 40px;
+}
+.experienceContent > article {
+    margin-top: 50px;
+}
+article > p {
+    text-indent: 20px;
+}
+div {
+    line-height: 2px;
+}
+div > h3 {
+    font-weight: bold;
 }
